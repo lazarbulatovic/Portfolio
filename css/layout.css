@@ -1,10 +1,4 @@
 /*
-=====================================================================
-*   Ceevee v1.0 Layout Stylesheet
-*   url: styleshout.com
-*   03-18-2014
-=====================================================================
-
    TOC:
    a. General Styles
    b. Header Styles
@@ -336,17 +330,17 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: illustrator 2s ease;
 }
 .bootstrap {
-  	width: 50%;
+  	width: 90%;
   	-moz-animation: bootstrap 2s ease;
   	-webkit-animation: bootstrap 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 100%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 90%;
+  	width: 100%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
@@ -355,7 +349,16 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
-
+.jsf {
+    width: 70%;
+    -moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.wordPress {
+    width: 85%;
+    -moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
